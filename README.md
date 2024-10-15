@@ -22,4 +22,7 @@ simpan data ini ke htdocs
 aktifkan apache dan mysql untuk database
 buka browse dan ketik localhost/.... diisi nama foldernya/tinggal klik index html
 
+Account admin: admin passwoard : admin
+
+
 # CVPortofolio1
